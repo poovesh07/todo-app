@@ -1,7 +1,7 @@
 # 📝 Todo App
 
 A clean and responsive Todo List application built using **React**, **Vite**, and **Tailwind CSS**.  
-It helps you manage daily tasks — add, edit, complete, and delete todos with a minimal and modern UI.
+It helps you manage daily tasks — add,complete, and delete todos with a minimal and modern UI.
 
 ---
 
