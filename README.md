@@ -1,20 +1,20 @@
-# 📝 Todo App
+#  Todo App
 
 A clean and responsive Todo List application built using **React**, **Vite**, and **Tailwind CSS**.  
 It helps you manage daily tasks — add,complete, and delete todos with a minimal and modern UI.
 
 ---
 
-## 🚀 Features
-- ➕ Add new todos  
-- ✅ Mark todos as completed or uncompleted  
-- ❌ Delete todos  
-- 💾 Save todos in LocalStorage  
-- 📱 Fully responsive layout (Tailwind CSS)  
+##  Features
+-  Add new todos  
+-  Mark todos as completed or uncompleted  
+-  Delete todos  
+-  Save todos in LocalStorage  
+-  Fully responsive layout (Tailwind CSS)  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Framework:** React (Vite)  
 - **Styling:** Tailwind CSS  
 - **Language:** JavaScript (ES6+)  
@@ -22,7 +22,7 @@ It helps you manage daily tasks — add,complete, and delete todos with a minima
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 # Clone this repository
